@@ -17,3 +17,4 @@
            (ellipse (* 6 size) (* 6 size) "solid" "black")))
 
 (target 20)
+(error "Sector not defined yet")
